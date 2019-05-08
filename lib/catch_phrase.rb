@@ -1,3 +1,3 @@
-def catch_phrase(pichula)
-  puts pichula
+def catch_phrase(name)
+  puts name
 end
